@@ -1,0 +1,18 @@
+# Node.js
+node_modules/
+
+# Visual Studio Code
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+
+# exiftool
+*_original
+
+# OS-related
+._*
+.DS_Store
+.Spotlight-V100
+.Trashes
+desktop.ini
+Thumbs.db
